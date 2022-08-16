@@ -13,6 +13,7 @@ This is a solution to the [Social proof section challenge on Frontend Mentor](ht
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
 - [Author](#author)
+-  [Acknowledgement](#acknowledgement)
 
 
 ## Overview
@@ -25,15 +26,15 @@ This is a solution to the [Social proof section challenge on Frontend Mentor](ht
 
 # Mobile Preview 
 
-![screenshot]()
+![screenshot](https://github.com/romila2003/Social-Proof-Section/blob/main/Mobile%20preview.PNG)
 
 # Tablet Preview
 
-![screenshot]()
+![screenshot](https://github.com/romila2003/Social-Proof-Section/blob/main/Tablet%20preview.PNG)
 
 # Desktop Preview 
 
-![screenshot]()
+![screenshot](https://github.com/romila2003/Social-Proof-Section/blob/main/Desktop%20preview.PNG)
 
 
 ### Links
@@ -82,3 +83,6 @@ For future developments, I need to learn more complex concepts and utilise those
 - Frontend Mentor - [@romila2003](https://www.frontendmentor.io/profile/romila2003)
 - Twitter - [@romila003](https://www.twitter.com/romila003)
 
+## Acknowledgement
+
+- Kevin Powell - [YouTube Video](https://www.youtube.com/watch?v=K27WULzr2P8&t=1703s) 

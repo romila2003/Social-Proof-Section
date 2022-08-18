@@ -56,7 +56,7 @@ This is a solution to the [Social proof section challenge on Frontend Mentor](ht
 
 This was a fun challenge to complete. I did follow [Kevin Powell's YouTube video](https://www.youtube.com/watch?v=K27WULzr2P8&t=1703s) whilst making adjustments within my code along the way. Despite having a good level of understanding regarding HTML and CSS, I learned some new concepts in regards to the SVGs such as the `space` property within `background-repeat` which is very useful and will most likely use in future projects. I also used both the `flex` and `grid` property to rearrange the elements into sections to help make the webpage responsive and look as similar to the design as possible. Overall, I really enjoyed this challenge and have taken a lot of new concepts into consideration and will use them in future projects.
 
-CSS - : 
+CSS - `before` property: 
 
 ```css
 
